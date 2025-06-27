@@ -2,7 +2,7 @@
 
 Predict B-cell and T-cell epitopes from the HIV-1 envelope (env) protein using Python and immunoinformatics tools.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/hiv-epitope-mapping/blob/main/HIV_Epitope_Mapping.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/hiv-epitope-mapping/blob/main/HIV_Epitope_Mapping.ipynb)
 
 ---
 
